@@ -18,6 +18,7 @@ Before pushing Run button, you need to have:
 https://youtu.be/tKNE6mzVRIw
 
 ### Flowchart
+![flowchart](https://user-images.githubusercontent.com/80334153/153870661-9fe6edae-5e5f-4501-80c3-75e65eacd9cf.PNG)
 
 
 ### Thank you for your time and making it this far =) 
